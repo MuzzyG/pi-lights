@@ -1,3 +1,3 @@
 # pi-lights
 
-## GCSE Coursework Project - 2018
+## A-Level Coursework Project - 2018
